@@ -1,0 +1,33 @@
+body{
+    background-image: url(./img/fondo.jpg);
+   
+    font-family: "SF Pro Display",!important;
+
+}
+
+section{
+
+    margin-left: 5rem;
+    border: solid rgb(146, 250, 126);
+    font-size: 2rem;
+    width: 90%;
+    border-radius: 2rem;
+    background: rgba(156, 241, 130, 0.7);
+    padding: 10px 20px;
+    color: rgb(14, 15, 14);
+    font-family: "SF Pro Display",!important;
+
+
+}
+
+
+
+footer{
+    font-size: 2rem;
+    width: 100%;
+    margin: 0;
+    border: 2cm;
+    text-align: center;
+    color: aliceblue;
+   
+}

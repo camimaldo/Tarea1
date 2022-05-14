@@ -1,0 +1,12 @@
+body{
+    background-image: url(../img/fondo.jpg);
+ }
+ 
+.form{
+    width: 450px ;
+    background: rgba(156, 241, 130, 0.7);
+    padding: 20px 30px;
+    margin-top: 40px;
+    font-family: "SF Pro Display", !important;
+    
+}
